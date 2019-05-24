@@ -10,7 +10,7 @@
   "manifest_version": 2,
   "content_scripts": [
     {
-      "matches": ["https://wx2.qq.com/*"],
+      "matches": ["https://wx2.qq.com/*", "https://wx.qq.com/*"],
       "js": ["./content.js"],
       "run_at": "document_end",
       "all_frames": true
