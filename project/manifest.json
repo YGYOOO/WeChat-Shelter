@@ -1,0 +1,27 @@
+{
+  "name": "悄悄上微信",
+  "version": "0.1",
+  "description": "把网页微信伪装成云笔记",
+  "icons": {
+    "16": "images/16.png",
+    "32": "images/32.png",
+    "128": "images/128.png"
+  },
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://wx2.qq.com/*"],
+      "js": ["./content.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "web_accessible_resources": [
+    "pageStyles/main.css",
+    "images/note.jpg",
+    "images/head_left.png",
+    "images/head_right.png",
+    "images/menu_top.png",
+    "images/menu_bottom.png"
+  ]
+}
