@@ -1,34 +1,3 @@
-const selectorPoll = (queryStr, all, {
-  intervalTime = 500,
-  maxTime = 1000 * 20,
-} = {}) => {
-  return new Promise((resolve, reject) => {
-    let maxTimeReached = false;
-    setTimeout(() => maxTimeReached = true, maxTime);
-
-    let interval = setInterval(() => {
-      let ele;
-      if (all) {
-        ele = document.querySelectorAll(queryStr);
-      } else {
-        ele = document.querySelector(queryStr);
-      }
-
-      if ((all && ele.length > 0) || (!all && ele)) {
-        resolve(ele);
-        clearInterval(interval);
-      }
-      if (maxTimeReached) {
-        reject();
-        clearInterval(interval);
-      }
-    }, intervalTime);
-  });
-};
-
-const querySelectorPoll = (queryStr, config) => selectorPoll(queryStr, false, config);
-const querySelectorAllPoll = (queryStr, config) => selectorPoll(queryStr, true, config);
-
 document.title = '云笔记';
 // 监听title改变
 new window.MutationObserver((mutations) => {
@@ -37,6 +6,7 @@ new window.MutationObserver((mutations) => {
   });
 }).observe(document.querySelector('head > title'), { subtree: true, characterData: true, childList: true })
 
+// 按钮文字经常会被重置为”发送“，简单粗暴一点改回来
 setInterval(() => {
   const btn = document.querySelector('.btn.btn_send');
   if (btn && btn.innerHTML !== '保存') btn.innerHTML = '保存';

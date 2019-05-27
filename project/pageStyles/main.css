@@ -71,6 +71,7 @@ body {
 .main {
   height: calc(100% - 50px) !important;
   display: flex !important;
+  padding-top: 0 !important;
 }
 
 .main_inner {
@@ -120,6 +121,8 @@ body {
 .web_wechat_tab_chat_hl, .web_wechat_tab_public_hl, .web_wechat_tab_friends_hl {
   filter: blur(5px);
 }
+
+
 
 .weChatShelter-head {
   width: 100%;
