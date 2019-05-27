@@ -15,7 +15,7 @@ chrome插件，把网页微信伪装成云笔记，让你让你神不知鬼不�
 如果按照该安装方式后没生效（可能会显示“该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的。”），就请删除该插件，执行下面的安装方式：
 
 ## 推荐安装方式
-下载[WeChat-Shelter.rar](https://github.com/YGYOOO/WeChat-Shelter/blob/master/WeChat-Shelter.rar)，然后解压，在chrome://extensions/右上角开启开发者模式，然后左边选择“加载已解压的扩展程序”，选择刚才解压的文件夹即可！
+下载[WeChat-Shelter.zip](https://github.com/YGYOOO/WeChat-Shelter/blob/master/WeChat-Shelter.zip)，然后解压，在chrome://extensions/右上角开启开发者模式，然后左边选择“加载已解压的扩展程序”，选择刚才解压的文件夹即可！
 
 
 > 该插件是我做着玩玩的，可能不会持续维护，如果有人有兴趣维护，我可以把你加进这个项目
