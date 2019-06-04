@@ -4,7 +4,7 @@ chrome插件，把网页微信伪装成云笔记，让你让你神不知鬼不�
 
 >本人不定期搞点好玩的东西，关注一波？    
 [![](https://img.shields.io/github/followers/YGYOOO.svg?label=Follow&style=social)](https://github.com/YGYOOO)
-[![](https://img.shields.io/badge/Follow%20@YGY的小号--brightgreen.svg?logo=Sina%20Weibo&style=social)](https://weibo.com/u/5352731024)
+[![](https://img.shields.io/badge/Follow%20@卧槽竟然是YGY的微博--brightgreen.svg?logo=Sina%20Weibo&style=social)](https://weibo.com/u/5352731024)
 [![](https://img.shields.io/badge/Follow%20@YGYOOO--brightgreen.svg?logo=Twitter&style=social)](https://twitter.com/YGYOOO)
 
 ## 使用效果
