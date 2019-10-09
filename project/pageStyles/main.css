@@ -2,9 +2,12 @@ body {
   background: none !important;
 }
 
-.panel.give_me, .search_bar > input, .chat_item.active {
+.panel.give_me, .search_bar > input {
   background: none !important;
   color: #393939 !important;
+}
+.chat_item.active {
+  background: #f2f2f5 !important;
 }
 #search_bar {
   padding: 8px 18px !important;
