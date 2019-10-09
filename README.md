@@ -28,4 +28,4 @@ chrome商店直接安装：https://chrome.google.com/webstore/detail/悄悄上�
 
 <br>
 
-> 推荐另一个chrome插件，可以拦截并修改页面上的ajax请求：[ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)   
+> 推荐一个适合开发人员用的chrome插件，可以拦截并修改页面上的ajax请求：[ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)   
