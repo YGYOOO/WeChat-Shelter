@@ -26,10 +26,6 @@ chrome商店直接安装：https://chrome.google.com/webstore/detail/悄悄上�
 如果按照该安装方式后没生效（可能会显示“该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的。”），就请删除该插件，尝试前两个安装方式
 
 
-
-      
-<br>
-<br>
 <br>
 
-> 该插件是我做着玩玩的，可能不会持续维护，网页微信样式更新后可能会导致该插件失效，如果有人有兴趣维护我可以把你加进这个项目（原理非常简单，就是覆盖网页微信的样式和部分文字）
+> 推荐另一个chrome插件，可以拦截并修改页面上的ajax请求：[ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)   
