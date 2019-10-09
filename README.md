@@ -5,7 +5,9 @@ chrome插件，把网页微信伪装成云笔记，让你让你神不知鬼不�
 >本人不定期搞点好玩的东西，关注一波？    
 [![](https://img.shields.io/github/followers/YGYOOO.svg?label=Follow&style=social)](https://github.com/YGYOOO)
 [![](https://img.shields.io/badge/Follow%20@卧槽竟然是YGY的微博--brightgreen.svg?logo=Sina%20Weibo&style=social)](https://weibo.com/u/5352731024)
-[![](https://img.shields.io/badge/Follow%20@YGYOOO--brightgreen.svg?logo=Twitter&style=social)](https://twitter.com/YGYOOO)
+[![](https://img.shields.io/badge/Follow%20@YGYOOO--brightgreen.svg?logo=Twitter&style=social)](https://twitter.com/YGYOOO)   
+
+> 推荐一个适合开发人员用的chrome插件，可以拦截并修改页面上的ajax请求：[ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)   
 
 ## 使用效果
 <img src="https://raw.githubusercontent.com/YGYOOO/WeChat-Shelter/master/imgs/示例.jpg" width="800"> 
@@ -22,10 +24,4 @@ chrome商店直接安装：https://chrome.google.com/webstore/detail/悄悄上�
 
 方法2：   
 下载[WeChat-Shelter.crx](https://github.com/YGYOOO/WeChat-Shelter/blob/master/WeChat-Shelter.crx) （进去后页面上有个"Download"按钮），打开chrome://extensions/，把WeChat-Shelter.crx拖进去，即可完成安装！然后登陆[网页微信](https://wx2.qq.com) （如果已经登录，需要刷新一下页面）
-
-如果按照该安装方式后没生效（可能会显示“该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的。”），就请删除该插件，尝试前两个安装方式
-
-
-<br>
-
-> 推荐一个适合开发人员用的chrome插件，可以拦截并修改页面上的ajax请求：[ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)   
+ 
