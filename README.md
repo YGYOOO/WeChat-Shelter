@@ -7,7 +7,7 @@ chrome插件，把网页微信伪装成云笔记，让你让你神不知鬼不�
 [![](https://img.shields.io/badge/Follow%20@卧槽竟然是YGY的微博--brightgreen.svg?logo=Sina%20Weibo&style=social)](https://weibo.com/u/5352731024)
 [![](https://img.shields.io/badge/Follow%20@YGYOOO--brightgreen.svg?logo=Twitter&style=social)](https://twitter.com/YGYOOO)   
 
-> 推荐一个适合开发人员用的chrome插件，可以拦截并修改页面上的ajax请求：[ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)   
+> 另推荐一个适合开发人员用的chrome插件，可以拦截并修改页面上的ajax请求：[ajax-interceptor](https://github.com/YGYOOO/ajax-interceptor)   
 
 ## 使用效果
 <img src="https://raw.githubusercontent.com/YGYOOO/WeChat-Shelter/master/imgs/示例.jpg" width="800"> 
