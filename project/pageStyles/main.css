@@ -6,6 +6,9 @@ body {
   background: none !important;
   color: #393939 !important;
 }
+.chat_item.top {
+  background: none !important;
+}
 .chat_item.active {
   background: #f2f2f5 !important;
 }
