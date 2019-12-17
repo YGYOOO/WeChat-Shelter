@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/YGYOOO/WeChat-Shelter/master/project/images/128.png" width="70">    
 
-chrome插件，把网页微信伪装成云笔记，让你让你神不知鬼不觉地上微信~上多久都不用在意！（仅供娱乐！不好好工作学习别怪我<(￣3￣)> ） 
+chrome插件，把网页微信伪装成云笔记，让你让你神不知鬼不觉地上微信~上多久都不用在意！（仅供娱乐博君一笑！不好好工作学习别怪我<(￣3￣)> ） 
 
 >本人不定期搞点好玩的东西，关注一波？    
 [![](https://img.shields.io/github/followers/YGYOOO.svg?label=Follow&style=social)](https://github.com/YGYOOO)
