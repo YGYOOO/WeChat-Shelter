@@ -3,7 +3,8 @@
 chrome插件，把网页微信伪装成云笔记！   
 （纳尼，我无聊时花2小时写着搞笑的，没想到这么多star，感谢感谢(￣▽￣)。大家可以用来练手入门chrome插件开发，如果用来不好好工作学习别怪我（￣へ￣）） 
 
->本人不定期搞点好玩的东西，关注一波？    
+
+>求关注求关注    
 [![](https://img.shields.io/github/followers/YGYOOO.svg?label=Follow&style=social)](https://github.com/YGYOOO)
 [![](https://img.shields.io/badge/Follow%20@卧槽竟然是YGY的微博--brightgreen.svg?logo=Sina%20Weibo&style=social)](https://weibo.com/u/5352731024)
 [![](https://img.shields.io/badge/Follow%20@YGYOOO--brightgreen.svg?logo=Twitter&style=social)](https://twitter.com/YGYOOO)   
