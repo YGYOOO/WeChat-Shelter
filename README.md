@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/YGYOOO/WeChat-Shelter/master/project/images/128.png" width="70">    
 
-chrome插件，把网页微信伪装成云笔记！
+chrome插件，把网页微信伪装成云笔记！   
 （纳尼，我无聊时花2小时写着搞笑的，没想到这么多star，感谢感谢(￣▽￣)。大家可以用来练手入门chrome插件开发，如果用来不好好工作学习别怪我（￣へ￣）） 
 
 >本人不定期搞点好玩的东西，关注一波？    
